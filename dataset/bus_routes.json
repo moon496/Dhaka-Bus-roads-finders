@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "name": "BRTC",
+    "type": "City Bus",
+    "from": "Mirpur 10",
+    "to": "Motijheel",
+    "stops": [
+      "Mirpur 10",
+      "Kazipara",
+      "Shewrapara",
+      "Agargaon",
+      "Farmgate",
+      "Shahbag",
+      "Gulistan",
+      "Motijheel"
+    ],
+    "color": "#2563eb"
+  },
+  {
+    "id": 2,
+    "name": "Bahon",
+    "type": "City Bus",
+    "from": "Uttara",
+    "to": "Motijheel",
+    "stops": [
+      "Uttara",
+      "Airport",
+      "Banani",
+      "Mohakhali",
+      "Farmgate",
+      "Shahbag",
+      "Gulistan",
+      "Motijheel"
+    ],
+    "color": "#16a34a"
+  },
+  {
+    "id": 3,
+    "name": "Trust Transport",
+    "type": "City Bus",
+    "from": "Mirpur 10",
+    "to": "Farmgate",
+    "stops": [
+      "Mirpur 10",
+      "Kazipara",
+      "Agargaon",
+      "Farmgate"
+    ],
+    "color": "#ea580c"
+  }
+]

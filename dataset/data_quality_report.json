@@ -1,0 +1,85 @@
+{
+  "sourceFile": "dhaka-city-local-bus.json",
+  "summary": {
+    "services": 156,
+    "stopEntries": 3190,
+    "distinctRawStopStrings": 301,
+    "emptyServiceType": 116,
+    "emptyTime": 145
+  },
+  "duplicateServiceNames": [
+    {
+      "name": "Alif",
+      "recordIds": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "name": "BRTC",
+      "recordIds": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "name": "Dhakar Chaka",
+      "recordIds": [
+        55,
+        56
+      ]
+    },
+    {
+      "name": "FTCL",
+      "recordIds": [
+        64,
+        65
+      ]
+    },
+    {
+      "name": "Jabale Noor Paribahan",
+      "recordIds": [
+        76,
+        77
+      ]
+    },
+    {
+      "name": "Shikhor Paribahan",
+      "recordIds": [
+        126,
+        127
+      ]
+    },
+    {
+      "name": "Trust Transport Services",
+      "recordIds": [
+        143,
+        144,
+        145,
+        146
+      ]
+    }
+  ],
+  "repeatedStopsWithinService": [
+    {
+      "recordId": 54,
+      "service": "Dewan",
+      "stop": "Science Lab",
+      "positions": [
+        5,
+        7
+      ]
+    }
+  ],
+  "stopAliasSuggestionsFile": "stop_alias_suggestions.json",
+  "reviewNote": "Stop aliases are suggestions only. Confirm semantic equivalence before approval."
+}
